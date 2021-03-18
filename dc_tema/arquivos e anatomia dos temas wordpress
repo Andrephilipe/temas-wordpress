@@ -1,0 +1,25 @@
+arquivos e anatomia dos temas wordpress
+
+header.php
+função que chama o arquivo
+get_header();
+
+footer.php
+função que chama o arquivo na página que vai ser exibido
+get_footer();
+
+sidebar.php
+função que chama o arquivo 
+get_sidebar();
+
+the loop
+conteudo principal do site e arquivo indispensavel 
+index.php => modelo de apresentação de uma pagina
+
+home.php
+archive.php
+page.php
+sigle.php
+search.php
+author.php
+404.php

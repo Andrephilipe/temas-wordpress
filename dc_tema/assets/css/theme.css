@@ -1,0 +1,38 @@
+body{
+background: #7f7f7f;
+}
+
+.container{
+	width:70%;
+	float: left; 
+}
+.fullwidth{
+	width: 100%;
+	background: black;
+	text-align: center:
+	text: color white;
+}
+sidebar{
+	width: 30%;
+	float: right;
+	color: black;
+}
+.widget_title{
+	color: red;
+}
+.paginacao{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.pagina_anterior{
+	float: left;
+}
+.proxima_pagina{
+	float: right;
+}
+.custom_logo{
+	width: 70px;
+	height: 70px;
+	float: left;
+	margin-right: 20px;
+}
